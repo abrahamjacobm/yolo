@@ -2,4 +2,4 @@ classes = 1
 train   = /content/darknet/data/train.txt
 valid   = /content/darknet/data/valid.txt
 names   = /content/darknet/data/obj.names
-backup  = /content/darknet/data/backup  # Adjust the backup directory as needed
+backup  = /content/darknet/data/backup
