@@ -1,0 +1,6 @@
+/content/yolo/darknet/train/fish-training_mp4-10_jpg.rf.d97beacb39a1a2dc1e6c6a3b1afb3fee.jpg
+/content/yolo/darknet/train/fish-training_mp4-11_jpg.rf.9fc4c0ff183c93c196b89d6457b3a53d.jpg
+/content/yolo/darknet/train/fish-training_mp4-19_jpg.rf.edcf7f4df7e88f38a88e28e58de3fee9.jpg
+/content/yolo/darknet/train/fish-training_mp4-16_jpg.rf.555299ba54b3ba5fc4ea8417e795d5b5.jpg
+/content/yolo/darknet/train/fish-training_mp4-6_jpg.rf.373cf899ef7e24b1131a0ac39f0087ac.jpg 
+/content/yolo/darknet/train/fish-training_mp4-29_jpg.rf.fa5c6310c104a9a8e99580a7ca0394d8.jpg
