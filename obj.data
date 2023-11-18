@@ -1,5 +1,5 @@
 classes = 1
-train   = /content/yolo/darknet/data/train.txt
-valid   = /content/yolo/darknet/data/valid.txt
-names   = /content/yolo/darknet/data/obj.names
-backup  = /content/yolo/darknet/data/backup  # Adjust the backup directory as needed
+train   = /content/yolo/data/train.txt
+valid   = /content/yolo/data/valid.txt
+names   = /content/yolo/data/obj.names
+backup  = /content/yolo/data/backup  # Adjust the backup directory as needed
